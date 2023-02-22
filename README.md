@@ -1,2 +1,2 @@
 # Java
-Repository for Java exercises
+## Repository for Java exercises
