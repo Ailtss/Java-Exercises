@@ -40,7 +40,7 @@ public class Main {
         
         LicensePlate newLi2 = new LicensePlate("HJ", "CVB-123");
         
-        v.add(newLi2, "Ailton");i5-9300H in 2023
+        v.add(newLi2, "Ailton");
         
         v.printLicensePlates();
         v.printOwners();
